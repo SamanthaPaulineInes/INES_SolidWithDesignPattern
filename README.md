@@ -10,3 +10,4 @@ Your solution should not violate other SOLID principles.
 
 
 # UML DIAGRAM
+![5 5 24 (1)](https://github.com/SamanthaPaulineInes/INES_SolidWithDesignPattern/assets/142489430/c9a5d3fa-8009-4c95-a5fc-e817333f0a54)
